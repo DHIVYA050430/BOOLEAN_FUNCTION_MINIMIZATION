@@ -53,8 +53,8 @@ endmodule
 ```
 
 
-Developed by: Abdur Rahman Basil A H
-RegisterNumber: 212223040002
+Developed by :DIVYA E
+RegisterNumber: 212223230050
 
 
 # RTL realization: 
